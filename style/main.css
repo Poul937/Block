@@ -16,9 +16,8 @@ body {
 }
 .text {
     color: #FAF9F9;
-    flex: 0 0 560px;
-    padding-top: 170px;
-    padding-bottom: 170px;
+    flex: 0 0 550px;
+    padding: 170px 0px;
 }
 h1 {
     font-size: 120px;
